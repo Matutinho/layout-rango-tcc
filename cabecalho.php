@@ -8,6 +8,8 @@
     <link rel="stylesheet" href="css/cssBackground.css">
     <link rel="stylesheet" href="css/cssTelaInicialGhest.css">
     <link rel="stylesheet" href="css/cssTelaInicialAdmistrador.css">
+    <link rel="stylesheet" href="css/cssTelaWorkspace.css">
+    <link rel="stylesheet" href="css/cssTelaCardapio.css">
     <title>Rango!</title>
 </head>
 <body>

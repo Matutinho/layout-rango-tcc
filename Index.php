@@ -17,9 +17,18 @@
     } elseif (isset($_POST['btnContato'])) {
         # code...
     } elseif (isset($_POST['btnCliente'])) {
-        # code...
+
+        require_once 'view/telaSistemaCliente.php';
+
     } elseif (isset($_POST['btnGerenciar'])) {
-        # code...
+
+        require_once 'view/telaWorkspace.php';
+
+    } elseif (isset($_POST['btnCardapio'])) {
+        
+        require_once 'view/telaSistemaCliente.php';
+        require_once 'view/telaCardapio.php';
+
     } elseif (isset($_POST['btnSuporte'])) {
         # code...
     } elseif (isset($_POST['btnPerfil'])) {
@@ -31,7 +40,7 @@
     } else {
 
         require_once 'view/telaInicialGhest.php';
-        
+
     }
 
     require_once "rodape.php";

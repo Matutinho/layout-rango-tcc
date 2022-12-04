@@ -6,14 +6,8 @@
   <!-- FORMULARIO: MENU CONVIDADO -->
   <form action="" method="post">
     <!-- BOTÃO:BUTTON -->
-    <button class="box-button-link-1" name="btnCliente" id="btnCliente">
-      CLIENTES
-    </button>
     <button class="box-button-link-2" name="btnGerenciar" id="btnGerenciar">
       WORKSPACE!
-    </button>
-    <button class="box-button-link-3" name="btnGerenciar" id="btnGerenciar">
-      NOTIFICAÇÕES
     </button>
     <button class="box-button-logar" name="btnPerfil" id="btnPerfil">
       PERFIL

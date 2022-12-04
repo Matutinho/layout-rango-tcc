@@ -28,13 +28,17 @@
   color: white;
   background-color: #ffa60000;
   transition: 0.5s;
-  font-size: 13px;
+  font-size: 85%;
   margin-left: 25px;
-  width: 80px;
+  width: 120px;
   height: 35px;
 }
 
 .box-button-link-2 {
+  width: 150px;
+}
+
+.box-button-link-1 {
   width: 150px;
   border-radius: 10px;
   background-color: #ff7b00;
@@ -45,17 +49,17 @@
   margin-left: 45%;
 }
 
-.box-button-link-2:hover {
+.box-button-link-1:hover {
   border-bottom-right-radius: 0;
   background-color: #ffffff;
 }
 
-.box-button-link-1:hover, .box-button-link-2:hover, .box-button-link-3:hover, .box-button-logar:hover, .box-button-registrar:hover {
+.box-button-link-2:hover, .box-button-link-1:hover, .box-button-link-3:hover, .box-button-logar:hover, .box-button-registrar:hover {
   color: #ff7b00;
   transition: 0.5s;
 }
 
-.logo-img-menu:hover, .box-button-link-2:hover {
+.logo-img-menu:hover, .box-button-link-1:hover {
   transform: scale(110%);
   transition: 0.5s;
 }

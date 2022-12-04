@@ -1,0 +1,7 @@
+.box-cardapio {
+    margin: 10px;
+    padding: 0;
+    background-color: rgb(255, 0, 0);
+    width: 500px;
+    height: 300px;
+}
