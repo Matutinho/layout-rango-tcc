@@ -1,0 +1,85 @@
+.box-tela-cadastro {
+    width: 55vh;
+    height: 70vh;
+    background-color: #161616;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 2px 2px 20px #161616;
+}
+
+.logo-tela-cadastro {
+    width: 270px;
+    margin: 60px;
+    padding: 0;
+    margin-top: -20px;
+    transition: 0.5s;
+}
+
+.logo-tela-cadastro:hover {
+    transition: 0.5s;
+    transform: scale(105%);
+}
+
+.form-tela-cadastro {
+    width: 80%;
+    height: 60%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    margin-top: -50px;
+    color: #ffffff;
+    font-family: Agency FB;
+    font-size: 20px;
+    margin-top: -90px;
+}
+
+    .box-label-tela-cadastro {
+        flex-direction: column;
+        display: flex;
+        width: 35%;
+        height: 90%;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+    }
+
+    .box-input-tela-cadastro {
+        width: 50%;
+        height: 90%;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+    }
+
+.input-tela-cadastro {
+    width: 100%;
+    height: 7%;
+    border-radius: 5px;
+    border: none;
+    margin-top: 30px;
+}
+
+.btn-tela-cadastro {
+    margin-top: 20px;
+    width: 30%;
+    height: 10%;
+    border-radius: 5px;
+    border: none;
+    transition: 0.5s;
+}
+
+.btn-tela-cadastro:hover {
+    transform: scale(105%);
+    color: #ffffff;
+    background-color: #ff5100;
+    transition: 0.5s;
+}
+
+.label-text {
+    margin-top: 35px;
+}
