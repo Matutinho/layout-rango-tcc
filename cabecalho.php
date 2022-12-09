@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="css/cssTelaLogin.css">
     <link rel="stylesheet" href="css/cssTelaCadastroUsuario.css">
     <link rel="stylesheet" href="css/cssTelaHome.css">
+    <link rel="stylesheet" href="css/cssMenuCardapio.css">
     <title>Rango!</title>
 </head>
 <body>
